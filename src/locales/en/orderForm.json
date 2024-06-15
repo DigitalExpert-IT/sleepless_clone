@@ -1,0 +1,23 @@
+{
+  "title": "INVESTMENT RULES",
+  "volume": "Volume",
+  "lastPrice": "Last Price",
+  "investmentRules": {
+    "titleFirstDescription": "*Welcome to the Future of Investing!*",
+    "subFirstDescription": "We’re thrilled to introduce an exclusive investment opportunity that combines cutting-edge AI technology with substantial rewards. Join us and watch your earnings soar!",
+    "secSubFirstDescription": "*How It Works*",
+    "contentFirstDescription":[
+    "Register once through our advanced AI Face Recognition system and Instantly receive 100 USDT in your spot holdings. Become part of our dynamic investment community.",
+    "Target Price is $30 in the next Bull Run session. Enjoy a 30% closing profit when our target price is achieved and Boost Your Earnings by Inviting Friends",
+    "For every 5 friends you invite to join via AI Face Recognition, earn an additional 100 USDT in your spot holdings."
+    ],
+    "finalFirstDescription": "The more you invite, the more you earn!",
+    "titleSecondDescription": "*Why Join Us?*",
+    "contetSecondDescription": [
+    "Innovative Technology: Experience the ease and security of AI Face Recognition.",
+    "Generous Rewards: Start with 100 USDT and watch your earnings grow with every friend you invite.",
+    "Community Spirit: Be part of a forward-thinking community focused on mutual growth and success."
+    ],
+    "finalSecondDescription": "Don’t miss out on this unique opportunity to invest in the future. Sign up now and start earning today!"
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "placeholder": {
+      "referrer": "Referrer Address",
+      "quantity": "Quantity",
+      "selectCurrency": "Select Currency"
+    },
+    "label": {
+      "referrerTitle": "Referrer",
+      "referrer": "Add Your Referrer",
+      "swap": "Swap To",
+      "from": "From",
+      "to": "To"
+    },
+    "message": {
+      "registrationSuccess": "Registration Success!",
+      "swapSucces": "Succes Swap"
+    },
+    "helperText": {
+      "referrer": "Enter referral address",
+      "quantity": "please enter Quantity",
+      "balance": "Balance {{balanceOf}} {{symbol}}",
+      "afterFee": "After Fee {{value}} {{symbol}}"
+    }
+  }
+  
