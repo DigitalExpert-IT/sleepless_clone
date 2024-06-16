@@ -85,7 +85,7 @@ const Navbar: React.FC<INavbar> = ({ data }) => {
   const toast = useToast();
   const address = useAddress();
   const router = useRouter();
-  const myRef = `https://sleeplessailabs.org/?ref=${address}`;
+  const myRef = `https://sleeplessaiworld.org/?ref=${address}`;
   const { data: usdtCreditbalance, isLoading: isLoadingUsdt } = useUsdtCreditBalance();
   const { data: aiCreditbalance, isLoading: isLoadingAi } = useAiCreditBalance();
   const { onCopy } = useClipboard(myRef);
